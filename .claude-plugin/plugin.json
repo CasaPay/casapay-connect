@@ -2,8 +2,19 @@
   "name": "casapay-connect",
   "version": "0.1.0",
   "description": "Rent FinOps with CasaPay Connect: create payment links and checkout sessions, track overdue rent and collections, review Cover and On-time guarantee agreements, and reconcile payouts.",
-  "author": { "name": "CasaPay" },
+  "author": {
+    "name": "CasaPay"
+  },
   "homepage": "https://casapay.com",
   "license": "MIT",
-  "keywords": ["casapay", "rent", "property management", "payments", "rent guarantee", "reconciliation", "finops"]
+  "keywords": [
+    "casapay",
+    "rent",
+    "property management",
+    "payments",
+    "rent guarantee",
+    "reconciliation",
+    "finops"
+  ],
+  "privacyPolicyUrl": "https://casapay.com/privacy/"
 }
