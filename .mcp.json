@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "casapay": {
+      "type": "http",
+      "url": "https://connect.casapay.com/mcp/casapay"
+    }
+  }
+}
